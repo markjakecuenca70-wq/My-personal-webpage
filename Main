@@ -27,10 +27,10 @@
     <h2>My Interests and Hobbies</h2>
 
     <p>I like <i>learning the elements</i> of the Periodic Table like <i>O<sub>2</sub></i> and <i>H<sub>2</sub>O</i>,<br>>I also like <i>identifying math expressions</i> like <i>x<sup>2</sup></i> and <i>A<sup>i</sup></i>.</p>
-    <p>My Hobbies are <b>coding</b> using VSS with pvz decomp, and <i>Making</i>/<i>Remixing Music</i>.</p>
+    <p>My Hobbies are <b>coding</b> using HTML CSS with Javascript game, and <i>Making</i>/<i> a game</i>.</p>
 
     <video width="400" controls>
-    <source src="hobbies.mp4"btype="video/mp4"> </video>
+    <source src="Create A Snake Game in HTML CSS & JavaScript JavaScript Game Tutorial (1).mp4"> </video>
 
     <p>This is a Video of me coding dynamic music and making/remixing music.</p>
 
@@ -45,11 +45,6 @@
                 type="audio/mpeg">
     </audio>
 
-    <audio controls>
-        <source src=
-                type="audio/mpeg">
-    </audio>
-
     <p>These audios Represent my favourite sounds or music that keep me Motivated.</p>
 
     <h2>My Goals</h2>
@@ -58,7 +53,7 @@
 
     <h2>My Personal Motto</h2>
 
-    <p><i>"If You Believe, You Achieve."</i></p>
+    <p><i>"If You work hard enough, You will Achieve."</i></p>
 
     <hr>
 
